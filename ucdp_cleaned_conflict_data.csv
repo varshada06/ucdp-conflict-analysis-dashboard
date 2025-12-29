@@ -1,0 +1,9 @@
+Year,Country,Region,Conflict_Type,Deaths_Battle,Deaths_Civilians,Total_Deaths,Actors,Latitude,Longitude
+2018,India,South Asia,State-based,120,30,150,Govt vs Rebels,20.5937,78.9629
+2018,Pakistan,South Asia,Non-state,80,20,100,Group A vs Group B,30.3753,69.3451
+2019,India,South Asia,State-based,150,40,190,Govt vs Rebels,20.5937,78.9629
+2019,Afghanistan,South Asia,State-based,600,200,800,Govt vs Insurgents,33.9391,67.71
+2020,Syria,Middle East,State-based,1000,500,1500,Govt vs Rebels,34.8021,38.9968
+2020,Nigeria,Africa,Non-state,250,100,350,Militia vs Civilians,9.082,8.6753
+2021,India,South Asia,One-sided violence,50,20,70,Group X vs Civilians,20.5937,78.9629
+2021,Ethiopia,Africa,State-based,400,150,550,Govt vs Rebels,9.145,40.4897
