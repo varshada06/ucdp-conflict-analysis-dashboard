@@ -30,6 +30,9 @@ The project explores conflict trends, regional impact, civilian vs battle deaths
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 🚀 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Live-Streamlit-red?logo=streamlit)](https://7nokeb4ke5jqfn7yvvyuqt.streamlit.app/)
 
 📊 Dataset
 
@@ -45,5 +48,6 @@ Interactive visualization
 Geospatial mapping
 
 Clean Python architecture using classes & functions
+
 
 Dashboard design with Streamlit
